@@ -1,0 +1,10 @@
+{
+    "num_classes": 1,
+    "uncmodel_checkpoint_restore": "./checkpoint/uncertainty_model_best.pth",
+    "npy_seg_dir": "../results/20250902_164602/seg",
+    "image_dir": "../data",
+    "test_datalist": "../test-samples.csv",
+    "cube_size": 64,
+    "output_folder": "../results/20250902_164602/skel_uncertainty",
+    "MCSamples": 5
+}
