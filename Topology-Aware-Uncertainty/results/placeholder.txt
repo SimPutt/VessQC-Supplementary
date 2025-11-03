@@ -1,0 +1,2 @@
+This is just a placeholder for the output directory.
+After running the code a folder with the current timestemp should appear, with all the results inside.
