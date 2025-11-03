@@ -4,5 +4,5 @@
     "image_dir": "../data",
     "test_datalist": "../test-samples.csv",
     "crop_size": 96,
-    "output_folder": "../results/20250902_164602/seg"
+    "output_folder": "../results/20251020_074738/seg"
 }

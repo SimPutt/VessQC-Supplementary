@@ -1,3 +1,5 @@
 *.tiff
 *.tif
 *.npy
+
+**/results/**
