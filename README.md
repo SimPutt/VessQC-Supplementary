@@ -10,8 +10,8 @@ It supports the research presented in the paper that introduced **VessQC**, an o
 
 This repository is organized to separate the methods used for generating different types of uncertainty maps:
 
-* **[`topology-uncertainty/`](topology-uncertainty/)**: Contains the inference pipeline for computing **structure-wise (topology-aware) uncertainty** for 3D data. This is based on the work from "Topology-Aware Uncertainty for Image Segmentation".
-* **[`pixelwise-uncertainty/`](pixelwise-uncertainty/)**: Contains the scripts and models for generating **pixel-wise uncertainty** maps.
+* **[`Topology-Aware-Uncertainty/`](topology-uncertainty/)**: Contains the inference pipeline for computing **structure-wise (topology-aware) uncertainty** for 3D data. This is based on the work from "Topology-Aware Uncertainty for Image Segmentation".
+* **[`Pixel-Wise-Uncertainty/`](pixelwise-uncertainty/)**: Contains the scripts and models for generating **pixel-wise uncertainty** maps.
 
 ---
 
@@ -19,8 +19,8 @@ This repository is organized to separate the methods used for generating differe
 
 To begin generating uncertainty maps, please navigate to the corresponding subfolder and follow its specific setup and execution instructions:
 
-* For **Topology-Aware Uncertainty**, see the instructions in **[`topology-uncertainty/`](topology-uncertainty/)**.
-* For **Pixel-wise Uncertainty**, see the instructions in **[`pixelwise-uncertainty/`](pixelwise-uncertainty/)**.
+* For **Topology-Aware Uncertainty**, see the instructions in **[`Topology-Aware-Uncertainty/`](topology-uncertainty/)**.
+* For **Pixel-wise Uncertainty**, see the instructions in **[`Pixel-Wise-Uncertainty/`](pixelwise-uncertainty/)**.
 
 ---
 
