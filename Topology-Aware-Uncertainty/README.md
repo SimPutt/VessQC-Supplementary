@@ -85,13 +85,15 @@ make
 
 ### 2.2) Automated Pipeline Execution
 
-The repository includes an automated pipeline script that handles the entire workflow:
-
-You might give following files execute rights beforehand:
-
-TODO
+The repository includes an automated pipeline script that handles the entire workflow. You might need to give following files execute rights beforehand:
 
 ```bash
+# Give execute rights
+chmod +x dipha-graph-recon/src/loop.out
+chmod +x dipha-graph-recon/src/manifold.out
+chmod +x dipha-graph-recon/build/dipha
+chmod +x run_pipeline.sh
+
 # Activate the environment
 conda activate mito
 

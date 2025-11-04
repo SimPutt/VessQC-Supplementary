@@ -6,23 +6,23 @@ It supports the research presented in the paper that introduced **VessQC**, an o
 
 ---
 
-## Repository Structure
+## Overview and Navigation
 
-This repository is organized to separate the methods used for generating different types of uncertainty maps:
+This supplementary repository is structured to separate the two types of uncertainty estimation. To begin, navigate to the relevant subfolder and follow its specific setup and execution instructions:
 
-* **[`Topology-Aware-Uncertainty/`](topology-uncertainty/)**: Contains the inference pipeline for computing **structure-wise (topology-aware) uncertainty** for 3D data. This is based on the work from "Topology-Aware Uncertainty for Image Segmentation".
-* **[`Pixel-Wise-Uncertainty/`](pixelwise-uncertainty/)**: Contains the scripts and models for generating **pixel-wise uncertainty** maps.
-
+| Focus | Description | Navigation |
+| :--- | :--- | :--- |
+| **Topology-Aware Uncertainty** | Inference pipeline for computing **structure-wise (topology-aware) uncertainty**. | **[`Topology-Aware-Uncertainty/`](topology-uncertainty/)** |
+| **Pixel-wise Uncertainty** | Scripts and models for generating standard **pixel-wise uncertainty** maps. | **[`Pixel-Wise-Uncertainty/`](pixelwise-uncertainty/)** |
 ---
 
-## Get Started
+## Key Links and Resources
 
-To begin generating uncertainty maps, please navigate to the corresponding subfolder and follow its specific setup and execution instructions:
-
-* For **Topology-Aware Uncertainty**, see the instructions in **[`Topology-Aware-Uncertainty/`](topology-uncertainty/)**.
-* For **Pixel-wise Uncertainty**, see the instructions in **[`Pixel-Wise-Uncertainty/`](pixelwise-uncertainty/)**.
-
----
+| Resource | Description | URL |
+| :--- | :--- | :--- |
+| **VessQC Curation Tool** | The main open-source tool that utilizes these uncertainty maps for 3D segmentation curation. | `https://github.com/MMV-Lab/VessQC` |
+| **VessQC Publication** | Paper introducing the VessQC tool and its evaluation. | [Placeholder for VessQC Paper Link] |
+| **Uncertainty Publication** | Paper detailing the methodology for the topology-aware uncertainty component. | [Placeholder for Topology Uncertainty Paper Link] |
 
 ## Citation
 
