@@ -2,4 +2,11 @@
 *.tif
 *.npy
 
+**/data/**
 **/results/**
+
+!**/Topology-Aware-Uncertainty/data/
+!**/Topology-Aware-Uncertainty/data/placeholder.txt
+
+!**/Topology-Aware-Uncertainty/results/
+!**/Topology-Aware-Uncertainty/results/placeholder.txt

@@ -1,6 +1,13 @@
 # Structure-wise Uncertainty for 3D Segmentation
 
-This repository contains code for computing structure-wise uncertainty of 3D .tiff volumes. I have also provided some data samples to verify that the code runs on your end.
+This repository provides code to compute structure-wise uncertainty for 3D volumetric data (e.g., .tiff stacks).
+Sample datasets for testing and verification will be made available soon.
+
+The implementation is based on the inference pipeline described in the NeurIPS 2023 paper:
+[Topology-Aware Uncertainty for Image Segmentation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/19ded4cfc36a7feb7fce975393d378fd-Abstract-Conference.html)
+
+For reference, the original source code can be found in the official repository:
+[GitHub.com/Saumya-Gupta-26/struct-uncertainty](https://github.com/Saumya-Gupta-26/struct-uncertainty/)
 
 ## Table of Contents
 
@@ -79,6 +86,10 @@ make
 ### 2.2) Automated Pipeline Execution
 
 The repository includes an automated pipeline script that handles the entire workflow:
+
+You might give following files execute rights beforehand:
+
+TODO
 
 ```bash
 # Activate the environment
