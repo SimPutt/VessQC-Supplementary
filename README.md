@@ -20,7 +20,7 @@ This supplementary repository is structured to separate the two types of uncerta
 
 | Resource | Description | URL |
 | :--- | :--- | :--- |
-| **VessQC Curation Tool** | The main open-source tool that utilizes these uncertainty maps for 3D segmentation curation. | `https://github.com/MMV-Lab/VessQC` |
+| **VessQC Curation Tool** | The main open-source tool that utilizes these uncertainty maps for 3D segmentation curation. | [`https://github.com/MMV-Lab/VessQC`](https://github.com/MMV-Lab/VessQC) |
 | **VessQC Publication** | Paper introducing the VessQC tool and its evaluation. | [Placeholder for VessQC Paper Link] |
 | **Uncertainty Publication** | Paper detailing the methodology for the topology-aware uncertainty component. | [Placeholder for Topology Uncertainty Paper Link] |
 
