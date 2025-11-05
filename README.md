@@ -12,8 +12,8 @@ This supplementary repository is structured to separate the two types of uncerta
 
 | Focus | Description | Navigation |
 | :--- | :--- | :--- |
-| **Topology-Aware Uncertainty** | Inference pipeline for computing **structure-wise (topology-aware) uncertainty**. | **[`Topology-Aware-Uncertainty/`](topology-uncertainty/)** |
-| **Pixel-wise Uncertainty** | Scripts and models for generating standard **pixel-wise uncertainty** maps. | **[`Pixel-Wise-Uncertainty/`](pixelwise-uncertainty/)** |
+| **Topology-Aware Uncertainty** | Inference pipeline for computing **structure-wise (topology-aware) uncertainty**. | **[`Topology-Aware-Uncertainty`](Topology-Aware-Uncertainty/)** |
+| **Pixel-wise Uncertainty** | Scripts and models for generating standard **pixel-wise uncertainty** maps. | **[`Pixel-Wise-Uncertainty`](Pixel-Wise-Uncertainty/)** |
 ---
 
 ## Key Links and Resources
